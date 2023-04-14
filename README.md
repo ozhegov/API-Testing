@@ -14,7 +14,7 @@
   ### Task 2 :
  Create test cases for all methods of pet functionality
  ### Solution
- [Test Cases]()
+ [Test Cases (RU)](https://docs.google.com/spreadsheets/d/1R23Q8uNJspb7Resjw3YpxVvnMCEgQo9T/edit?usp=sharing&ouid=104637141157944275480&rtpof=true&sd=true) | [Test Cases (EN)](https://docs.google.com/spreadsheets/d/17CaQD6jHZu-nJ9xsV9sCfhi3b51sud1Q/edit?usp=sharing&ouid=104637141157944275480&rtpof=true&sd=true)
  
  ---
 
