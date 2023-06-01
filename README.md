@@ -22,3 +22,11 @@
  Using the following [WSDL](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL) create a working collection in Postman, with which you can determine: country ISO code, complete information about the country, the currency of the country,  and information about the language of a particular country. For this task use variables and chaining requests.
  ### Solution
 [Postman Collection](https://www.postman.com/ozhegov/workspace/portfolio/collection/25976325-6061397d-4462-4fd8-9604-a02aa25f5a16?action=share&creator=25976325)
+
+ ---
+ 
+  ### Task 4 :
+  [Task](api_testing_vikunja_task.pdf) 👈
+  
+  ### Solution
+  [Postman Collection](https://www.postman.com/ozhegov/workspace/api-vikunja/collection/25976325-0ff8341e-256a-437f-8cbb-908b57c4387f?action=share&creator=25976325)
